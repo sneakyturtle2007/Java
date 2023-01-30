@@ -1,2 +1,2 @@
 # JavaStuff
-All of the Java programs that I have as assignments at school
+All of that I have programed
