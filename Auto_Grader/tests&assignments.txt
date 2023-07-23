@@ -1,0 +1,2 @@
+Test(number 0) - 1:a 2:b 3:a
+Something(number 1) - 1:a 2:c 3:a
